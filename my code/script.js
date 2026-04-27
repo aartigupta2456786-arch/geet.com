@@ -1,0 +1,2 @@
+alert("U R MINE ONLY")
+alert("I WANT TO BECOME YOUR BFF")
